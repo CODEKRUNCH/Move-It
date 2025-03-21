@@ -23,7 +23,7 @@ To deploy the website locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/move-it.git
+   git clone https://github.com/CODEKRUNCH/move-it.git
    ```
 2. Open `index.html` in a browser (for static deployment).
 3. If using React or another framework, install dependencies:
